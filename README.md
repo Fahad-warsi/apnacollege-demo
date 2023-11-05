@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git repository. 
 <br>
-Arthour- Fahad warsi
+Author- Fahad warsi
